@@ -109,6 +109,5 @@ class ScoreOf():
         '''
         return self.__new < self.__old
 
-    def got_smaller(self):
-        '''Alias to method `gets_smaller()`'''
-        return self.gets_smaller()
+    # Set an alias to this method for use in different semantic environments
+    got_smaller = gets_smaller
