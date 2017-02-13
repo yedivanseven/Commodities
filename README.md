@@ -19,7 +19,7 @@ from the notebooks into a decently documented `helpers` module.
 ### Dependencies
 Everything seems to run smoothly with a fairly fresh install of Anaconda 4.3.
 Other than [`arch`](https://pypi.python.org/pypi/arch/4.0), there are no
-additional dependencies.
+additional dependencies. This is for `python 3.6`.
 
 ### Data
 The financial time series I used for these notebooks are, unfortunatley,
