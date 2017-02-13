@@ -23,5 +23,5 @@ additional dependencies.
 
 ### Data
 The financial time series I used for these notebooks are, unfortunatley,
-proprietary and cannot be released under the same license as the notebook. The notebooks themselves, however, should be really easy to adapt to any time
+proprietary and cannot be released under the same license as the notebooks. The notebooks themselves, however, should be really easy to adapt to any time
 series.
