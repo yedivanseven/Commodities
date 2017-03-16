@@ -26,7 +26,7 @@ In the _Bayesian_ notebook, we explore the possibilities and models offered by
 Ross Taylor's [`PyFlux`-package](http://www.pyflux.com/). As there is a lot to
 play with, optimal model selection can take some time. To speed things up
 considerably, we leverage the python `multiprocessing` module and crunch
-through several models at the same time in parallel. This is again outsourced
+through several models at the same time, in parallel. This is again outsourced
 into the `helpers` package.
 
 ### Dependencies
